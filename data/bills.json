@@ -1,0 +1,16 @@
+{
+    "bill-1": {
+        "amount": 1200,
+        "exp_date": "2025-04-10",
+        "bill_type": "Rent",
+        "apartment": "apart-polanka"
+
+    },
+    "bill-2": {
+        "amount": 1500,
+        "exp_date": "2025-04-10",
+        "bill_type": "Rent",
+        "apartment": "apart-polanka"
+
+    }
+}
