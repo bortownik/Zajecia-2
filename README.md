@@ -6,7 +6,7 @@ Aplikacja do rozliczania najmowanych mieszkań.
 
 - Używając *Python3.12* utwórz *venv* i zainstaluj zależności
 
-szesc siedem 
+szesc siedem 67
 
 ```sh
 python3.12 -m venv venv
